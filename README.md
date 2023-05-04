@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud solutions**
 
-- 📝 I regularly write articles on [https://dev.to/aymanmahmoud33](https://dev.to/aymanmahmoud33) [https://aymanaly.com](https://aymanaly.com)
+- 📝 I regularly write articles on [https://dev.to/aymanmahmoud33](https://dev.to/aymanmahmoud33), and [https://aymanaly.com](https://aymanaly.com)
 
 - 💬 Ask me about **AWS, cloud solutions, courses and content creation**
 
