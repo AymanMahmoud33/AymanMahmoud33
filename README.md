@@ -15,6 +15,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to AWS Fargate](https://dev.to/aws-builders/introduction-to-aws-fargate-4iaf)
+- [How to use Lambda functions?](https://dev.to/aws-builders/how-to-use-lambda-functions-1d8e)
+- [Sample Step-Functions to handle a support call](https://dev.to/aws-builders/sample-step-functions-to-handle-a-support-call-4536)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
