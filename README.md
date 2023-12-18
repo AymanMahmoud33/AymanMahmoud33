@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Unleashing the Power of Serverless: A Journey into Event-Driven Architectures with AWS](https://dev.to/aws-builders/unleashing-the-power-of-serverless-a-journey-into-event-driven-architectures-with-aws-3ppi)
 - [Introduction to AWS Fargate](https://dev.to/aws-builders/introduction-to-aws-fargate-4iaf)
 - [How to use Lambda functions?](https://dev.to/aws-builders/how-to-use-lambda-functions-1d8e)
 - [Sample Step-Functions to handle a support call](https://dev.to/aws-builders/sample-step-functions-to-handle-a-support-call-4536)
