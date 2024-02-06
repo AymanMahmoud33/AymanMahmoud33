@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Configuring Lambda functions properly](https://dev.to/aws-builders/configuring-lambda-functions-properly-43pg)
 - [AWS Lambda Function Permissions](https://dev.to/aws-builders/aws-lambda-function-permissions-43nn)
 - [Unleashing the Power of Serverless: A Journey into Event-Driven Architectures with AWS](https://dev.to/aws-builders/unleashing-the-power-of-serverless-a-journey-into-event-driven-architectures-with-aws-3ppi)
 - [Introduction to AWS Fargate](https://dev.to/aws-builders/introduction-to-aws-fargate-4iaf)
-- [How to use Lambda functions?](https://dev.to/aws-builders/how-to-use-lambda-functions-1d8e)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
