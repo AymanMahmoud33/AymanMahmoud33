@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building serverless architectures with AWS Lambda](https://dev.to/aws-builders/building-serverless-architectures-with-aws-lambda-1k7l)
 - [Image Labeling with Amazon Rekognition](https://dev.to/aws-builders/image-labeling-with-amazon-rekognition-2enn)
 - [Configuring Lambda functions properly](https://dev.to/aws-builders/configuring-lambda-functions-properly-43pg)
 - [AWS Lambda Function Permissions](https://dev.to/aws-builders/aws-lambda-function-permissions-43nn)
-- [Unleashing the Power of Serverless: A Journey into Event-Driven Architectures with AWS](https://dev.to/aws-builders/unleashing-the-power-of-serverless-a-journey-into-event-driven-architectures-with-aws-3ppi)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
