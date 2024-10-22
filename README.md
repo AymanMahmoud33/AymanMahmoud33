@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Lambda function example:](https://dev.to/aymanmahmoud33/python-lambda-function-example-49gp)
 - [Invoking a synchronous Lambda function](https://dev.to/aws-builders/invoking-a-synchronous-lambda-function-3n2m)
 - [Building serverless architectures with AWS Lambda](https://dev.to/aws-builders/building-serverless-architectures-with-aws-lambda-1k7l)
 - [Image Labeling with Amazon Rekognition](https://dev.to/aws-builders/image-labeling-with-amazon-rekognition-2enn)
-- [Configuring Lambda functions properly](https://dev.to/aws-builders/configuring-lambda-functions-properly-43pg)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
