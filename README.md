@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Would Lambda Managed instance reduce your cost?](https://dev.to/aws-builders/would-lambda-managed-instance-reduce-your-cost-36gj)
 - [Stop Building Chatbots: The Case for Infrastructure-Driven AI Agents](https://dev.to/aymanmahmoud33/stop-building-chatbots-the-case-for-infrastructure-driven-ai-agents-1n0a)
 - [Simplifying Serverless Workflows with EventBridge Pipes](https://dev.to/aws-builders/simplifying-serverless-workflows-with-eventbridge-pipes-3mai)
 - [Python Lambda function example:](https://dev.to/aymanmahmoud33/python-lambda-function-example-49gp)
-- [Invoking a synchronous Lambda function](https://dev.to/aws-builders/invoking-a-synchronous-lambda-function-3n2m)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
