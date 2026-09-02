@@ -18,7 +18,7 @@
 - [$1.50/Month Email Infrastructure That Beats Your $20 SendGrid Plan](https://dev.to/aws-builders/i-replaced-my-email-server-with-3-aws-services-and-pay-150month-2eej)
 - [Demystifying API Gateway integration types](https://dev.to/aws-builders/demystifying-api-integration-types-2eia)
 - [Would Lambda Managed instance reduce your cost?](https://dev.to/aws-builders/would-lambda-managed-instance-reduce-your-cost-36gj)
-- [Stop Building Chatbots: The Case for Infrastructure-Driven AI Agents](https://dev.to/aymanmahmoud33/stop-building-chatbots-the-case-for-infrastructure-driven-ai-agents-1n0a)
+- [Stop Building Chatbots: The Case for Infrastructure-Driven AI Agents](https://dev.to/aws-builders/stop-building-chatbots-the-case-for-infrastructure-driven-ai-agents-1n0a)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
